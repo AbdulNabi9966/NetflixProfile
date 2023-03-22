@@ -1,0 +1,333 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.container-fluid {
+  background-color: rgb(44, 42, 42);
+}
+.n-logo img {
+  height: 70px;
+  width: auto;
+}
+.icon-side-content ul {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.headerlinks li {
+  display: flex;
+}
+.headerlinks {
+  display: flex;
+  margin: 10px;
+}
+.loc-col {
+  color: rgb(172, 9, 9);
+  font-size: 20px;
+}
+.loc-col p {
+  margin: 0 10px;
+  font-size: 15px;
+}
+p {
+  color: white;
+}
+.loc-col ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.msg-col {
+  color: rgb(172, 9, 9);
+  font-size: 20px;
+}
+.msg-col p {
+  margin: 0 10px;
+  font-size: 15px;
+}
+
+.fa,
+fa-linkedin,
+a {
+  margin: 0 10px;
+  text-decoration: none;
+  list-style-type: none;
+  color: white;
+  font-size: 15px;
+}
+.fa,
+fa-linkedin {
+  margin: 0 10px;
+
+  color: rgb(172, 9, 9);
+}
+.aboutme {
+  /* border: 2px solid white; */
+  display: flex;
+}
+.nam-but {
+  /* border: 2px solid  white; */
+  border-radius: 15px;
+  height: 200px;
+  background-color: rgb(66, 66, 66);
+}
+.justname p {
+  color: rgb(172, 9, 9);
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  align-content: center;
+  font-weight: 1000;
+}
+.buttsec {
+  display: flex;
+  justify-content: space-evenly;
+}
+.play {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: auto;
+  background-color: aliceblue;
+  color: black;
+}
+.info {
+  display: flex;
+  margin: auto;
+  padding: auto;
+}
+.playicon {
+  width: 0px;
+  /* height: 30px; */
+}
+.play {
+  display: flex;
+  width: 120px;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.playtext p {
+  color: black;
+  align-content: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  align-items: center;
+}
+.top10 {
+  /* border: 2px solid white; */
+}
+.numbr {
+  background-color: rgb(172, 9, 9);
+  width: 40px;
+  height: 60px;
+}
+.numbr p {
+  color: rgb(48, 46, 46);
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-weight: bolder;
+}
+.numbr span {
+  font-weight: 900;
+  font-size: x-large;
+}
+.top {
+  display: flex;
+  margin-left: 10px;
+}
+.applicationToday {
+  margin-left: 10px;
+  color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 900;
+}
+.contx {
+  margin-left: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+.edu-skill-heading {
+  display: flex;
+  color: rgb(172, 9, 9);
+}
+.edu-skill-heading p {
+  color: rgb(172, 9, 9);
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.college h4,
+h6,
+li {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
+.period {
+  display: inline-block;
+  border: 2px solid white;
+  color: white;
+}
+.college {
+  /* border: 2px solid white; */
+  text-align: center;
+  background-color: rgb(66, 66, 66);
+  border-radius: 10px;
+  color: white;
+  height: 285px;
+  /* width: max-content; */
+}
+
+.bottom {
+  display: flex;
+  justify-content: space-around;
+}
+.plus {
+  font-size: xx-large;
+  opacity: 0.5;
+  margin: 0px 10px 10px 0px;
+}
+.period {
+  margin: auto;
+}
+.edu-content-box {
+  display: flex;
+  justify-content: space-around;
+}
+.skill-content-box {
+  background-color: rgb(66, 66, 66);
+  border-radius: 10px;
+}
+.ed-sk {
+  display: flex;
+}
+h3,
+h4,
+h5,
+h6 {
+  color: white;
+}
+.list {
+  display: flex;
+  /* flex-wrap: wrap; */
+  justify-content: space-evenly;
+  height: fit-content;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.headcent {
+  display: flex;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.headcent h3 {
+  color: rgb(172, 9, 9);
+}
+
+hr {
+  border: 2px solid rgb(208, 9, 9);
+}
+span {
+  color: white;
+}
+
+.ed-sk {
+  /* border: 2px solid rgb(208, 9, 9); */
+  height: fit-content;
+}
+.workexheading {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.workexheading span {
+  opacity: 0.5;
+}
+.skillync {
+  border: 1px solid white;
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+.timeperiod p {
+  display: inline;
+  border: 1px solid white;
+  margin: 10px 10px;
+}
+.byjus {
+  border: 1px solid white;
+  box-shadow: 0px 0px 10px rgb(255, 255, 255);
+}
+.roww{
+  display: flex;
+  justify-content: space-between;
+}
+.proj-ach{
+  background-color: rgb(66, 66, 66);
+  display: flex;
+  justify-content: space-evenly;
+}.proj1 ul{
+  color: rgb(172, 9, 9);
+
+}
+button {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.scroll-down-arrow {
+  position: relative;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: block;
+}
+
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+  margin-right: 10px;
+  transform: rotate(180deg);
+  animation: arrowAnim 1s ease-in-out infinite alternate;
+}
+
+@keyframes arrowAnim {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(10px);
+  }
+}
+
+.scroll-down-arrow:hover .arrow {
+  animation-play-state: paused;
+}
+
+.arroww{
+  display: flex;
+  justify-content: left;
+}
+.proj1 li:first-child{
+  color: rgb(172, 9, 9) ;
+  font-size: xx-large;
+}
+
+.proj1 li:first-child span{
+  color: rgb(172, 9, 9) ;
+
+  font-size: medium;
+}
+.headofproject{
+  display: flex;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
